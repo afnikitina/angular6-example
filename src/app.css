@@ -1,4 +1,7 @@
 @import '~bootstrap/dist/css/bootstrap.min.css';
+tr th, tr td {
+	background-color: lavender;
+}
 h1 {
 	color: orange;
 }
